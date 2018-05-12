@@ -1,0 +1,38 @@
+_repo: Alexander-the-GreatMakers-of-History_30624
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2009-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Generals -- Greece -- Biography -- Juvenile literature'
+- !lcsh 'Greece -- History -- Macedonian expansion, 359-323 B.C. -- Juvenile literature'
+- !lcsh 'Alexander, the Great, 356-323 B.C. -- Juvenile literature'
+tableOfContents: Alexander's childhood and youth -- Beginning of his reign -- The
+  reaction -- Crossing the Hellespont -- Campaign in Asia Minor -- Defeat of Darius
+  -- The siege of Tyre -- Alexander in Egypt -- The great victory -- The death of
+  Darius -- Deterioration of character -- Alexander's end.
+title: 'Alexander the Great
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/30624
